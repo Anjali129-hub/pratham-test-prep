@@ -93,7 +93,7 @@ src/
 
 1. Clone the repository  
 
-git clone <repository-url>
+git clone <https://github.com/Anjali129-hub/pratham-test-prep>
 
 2. Install dependencies
 
